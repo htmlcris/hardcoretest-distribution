@@ -1,4 +1,4 @@
-# HardCoreTest Launcher
+# HardCoreTest Launcheer
 
 HardCoreTest Launcher is an independent Windows desktop launcher under development for the HardCoreTest community.
 
